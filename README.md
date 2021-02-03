@@ -1,3 +1,8 @@
+这个配置是使用thecw大神的配置更改而来
+thecw大神的原仓库地址：https://github.com/theniceboy/dwm
+
+
+
 我的 dwm 构建
 ============================
 [English Ver.](./README.md)
